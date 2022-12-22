@@ -17,3 +17,7 @@ body{
     width: 200px;
     height: 200px;
 }
+.sp{
+    text-decoration: underline;
+    display: inline-block;
+}
